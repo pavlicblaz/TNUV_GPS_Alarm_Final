@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPS Alarm</string>
+    <string name="title_activity_maps">GPS Alarm</string>
+    <string name="naslov" />
+    <string name="km" />
+    <string name="m" />
+    <string name="plus">+</string>
+    <string name="shrani">shrani</string>
+    <string name="nazaj"><![CDATA[<-]]></string>
+    />
+</resources>

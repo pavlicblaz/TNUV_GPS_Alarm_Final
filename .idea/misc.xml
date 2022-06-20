@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Faks/Lucija5/GPS_Alarm-master/app/src/main/res/drawable-v24/ic_launcher2_foreground.xml" value="0.1" />
+        <entry key="..\:/Documents/Faks/Lucija5/GPS_Alarm-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Documents/Faks/Lucija5/GPS_Alarm-master/app/src/main/res/drawable/ic_launcher2_background.xml" value="0.1" />
+        <entry key="..\:/Documents/Faks/Lucija5/GPS_Alarm-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Documents/Faks/Lucija5/GPS_Alarm-master/app/src/main/res/drawable/round.xml" value="0.1" />
+        <entry key="..\:/Documents/Faks/Lucija5/GPS_Alarm-master/app/src/main/res/drawable/round_edge.xml" value="0.1" />
+        <entry key="..\:/Documents/Faks/Lucija5/GPS_Alarm-master/app/src/main/res/drawable/round_edge_violet.xml" value="0.1" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPSAlarm-master_working/TNUV_GPSAlarm-master/app/src/main/res/drawable/round.xml" value="0.14" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPSAlarm-master_working/TNUV_GPSAlarm-master/app/src/main/res/drawable/round_edge.xml" value="0.14" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPSAlarm-master_working/TNUV_GPSAlarm-master/app/src/main/res/drawable/round_edge_violet.xml" value="0.14" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPSAlarm-master_working/TNUV_GPSAlarm-master/app/src/main/res/layout/activity_main.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPSAlarm-master_working/TNUV_GPSAlarm-master/app/src/main/res/layout/activity_maps.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPS_alarm-master (1)/TNUV_GPS_alarm-master/app/src/main/res/drawable/round.xml" value="0.1495" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPS_alarm-master (1)/TNUV_GPS_alarm-master/app/src/main/res/drawable/round_edge.xml" value="0.153" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPS_alarm-master (1)/TNUV_GPS_alarm-master/app/src/main/res/font/bold.xml" value="0.27685185185185185" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPS_alarm-master (1)/TNUV_GPS_alarm-master/app/src/main/res/layout/activity_main.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPS_alarm-master (1)/TNUV_GPS_alarm-master/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPS_alarm-master (1)/TNUV_GPS_alarm-master/app/src/main/res/layout/list_item.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Lucija/Downloads/TNUV_GPS_alarm-master (1)/TNUV_GPS_alarm-master/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
